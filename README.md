@@ -26,27 +26,10 @@
 - 🤓 Always learning new things.
 - 🤔 I’m currently open for : `An Intern`.
 <br><br>
- 
-
-<!-- GitHub Stats -->
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="30" style="margin-right: 10px;">GitHub Stats:
-<br> 
-
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7amed3bdelghany&theme=tokyonight_duo" alt="Mo7amed3bdelghany" /> </p>
-
-<p align="center">
-	    <img alt="Mo7amed3bdelghany's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mo7amed3bdelghany&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/> 
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amed3bdelghany&langs_count=10&show_icons=true&locale=en&theme=radical" alt="Mo7amed3bdelghany" height="230px"/>
-<br/>
 
 <!-- Views -->
 
-![](https://visitor-badge-deno.deno.dev/Mo7amed3bdelghany.Mo7amed3bdelghany.svg)
-
-
-
-<br><br><br><br>
+<br><br>
 <!-- Connect Us -->
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect With Me 🤝 </h3>
 
@@ -65,3 +48,5 @@
 <!-- ❤️🔥-->
 <h5> Made With ❤️ by <a href="https://www.linkedin.com/in/mo7amed-3bdelghany"> Mo7amed_3bdelghany </a> </h5>
 Last Edited on: 7/9/2024
+
+![](https://visitor-badge-deno.deno.dev/Mo7amed3bdelghny.Mo7amed3bdelghany.svg)

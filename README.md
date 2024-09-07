@@ -36,8 +36,7 @@
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7amed3bdelghany&theme=tokyonight_duo" alt="Mo7amed3bdelghany" /> </p>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Mo7amed3bdelghany's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mo7amed3bdelghany&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="Mo7amed3bdelghany's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mo7amed3bdelghany&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/> 
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amed3bdelghany&langs_count=10&show_icons=true&locale=en&theme=radical" alt="Mo7amed3bdelghany" height="230px"/>
 <br/>
 

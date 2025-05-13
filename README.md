@@ -122,9 +122,7 @@
 
 <p align="center">
 	&emsp;
-    <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mo7amed3bdelghany&show_icons=true&theme=default" width="415"/></a>
-	&emsp;
-    <a href="#"><img alt="Streak Stats" src="https://streak-stats.demolab.com?user=Mo7amed3bdelghany&theme=default" width="415"/></a>
+    <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mo7amed3bdelghany&show_icons=true&theme=default"/></a>
 	&emsp;
     <a href="#"><img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mo7amed3bdelghany&theme=default"/></a>
 </p>

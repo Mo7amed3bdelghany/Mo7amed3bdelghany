@@ -131,14 +131,16 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mo7amed3bdelghany&theme=onedark&no-bg=true&no-frame=true" />
+	&emsp;
+    <a href="#"><img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mo7amed3bdelghany&theme=onedark&no-bg=true&no-frame=true"/></a>
 </p>
 
 
 ## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mo7amed3bdelghany&theme=github-compact" />
+	&emsp;
+    <a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mo7amed3bdelghany&theme=github-compact"/></a>
 </p>
 
 

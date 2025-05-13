@@ -14,11 +14,12 @@
 </div>
 
 <br><br><br><br>
+<!-- About Me -->
 ## 🧑‍💼 Summary
 
 #### I'm a passionate Computer Science junior at Fayoum University with strong foundations in programming, data science, and AI/ML. With hands-on experience in real-world projects, open-source contributions, and competitive programming, I strive to build efficient, scalable solutions. Currently seeking internship opportunities where I can apply my knowledge and grow as a developer.
 
-<!-- About Me -->
+<br>
 
 ## <img src = "https://github.com/Mo7amed3bdelghany/Mo7amed3bdelghany/blob/main/Img/about%20me.gif?raw=true" width = 10%> About Me:
 
@@ -40,6 +41,7 @@
 -  Problem Solving (Basic) from [**HackerRank**](https://www.linkedin.com/company/hackerrank/). ([My Certificate](https://github.com/user-attachments/assets/d37cab5e-e42c-4455-9399-5cce764c7cec))
 - Volunteered in [**FA Model**](https://www.linkedin.com/company/fao-models/). ([My Certificate](https://github.com/user-attachments/assets/6257b25b-9353-446f-8048-0f9b117b431d))
 
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
@@ -61,7 +63,7 @@
   </a>
 </p>
 
-### <img src = "https://github.com/user-attachments/assets/b8c82700-06f4-4bb8-afeb-49eff94a56e4" width=5%>  Tech Stack
+### <img src = "https://github.com/user-attachments/assets/b8c82700-06f4-4bb8-afeb-49eff94a56e4" width="40">  Tech Stack
  
 <p align="center">
  <!-- Python Libraries -->
@@ -88,7 +90,7 @@
 </p>
 
 
- ### <img src = "https://github.com/user-attachments/assets/d8e01f4f-6034-4697-9f5f-3518dfbe9e6a" width=5%> IDEs & Editors
+ ### <img src = "https://github.com/user-attachments/assets/d8e01f4f-6034-4697-9f5f-3518dfbe9e6a" width="40"> IDEs & Editors
  
 <p align="center">
   &emsp;
@@ -101,7 +103,7 @@
     <a href="#"><img alt="Spyder" src="https://img.icons8.com/fluency/48/spyder-ide.png" width="40" height="40"/></a>
 </p>
 
-### <img src = "https://github.com/user-attachments/assets/94783b82-7435-4ce2-9b7d-b7c609f63802" width=5%>  Operating Systems
+### <img src = "https://github.com/user-attachments/assets/94783b82-7435-4ce2-9b7d-b7c609f63802" width="40">  Operating Systems
  
 <p align="center">
   &emsp;
@@ -119,10 +121,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo7amed3bdelghany&show_icons=true&theme=default" width="450" hight="200"  alt="GitHub Stats"/> 
-<img src="https://streak-stats.demolab.com?user=Mo7amed3bdelghany&theme=default" width="450 hight="250" alt="Streak Stats"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mo7amed3bdelghany&theme=default" alt="Profile Summary"/>
+	&emsp;
+    <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mo7amed3bdelghany&show_icons=true&theme=default" width="415"/></a>
+	&emsp;
+    <a href="#"><img alt="Streak Stats" src="https://streak-stats.demolab.com?user=Mo7amed3bdelghany&theme=default" width="415"/></a>
+	&emsp;
+    <a href="#"><img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mo7amed3bdelghany&theme=default"/></a>
 </p>
 
 

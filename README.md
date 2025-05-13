@@ -44,13 +44,19 @@
     <a href="https://wa.me/201220186449"><img src="https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/f1af1eed415b05863619f117fc08b0dc1510693b/Img/Whatsapp.png"width ="50px"/></a>
 </p>
 
- 
+
 <!--horizontal Color-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 
 <!-- ❤️🔥-->
 <h5> Made With ❤️ by <a href="https://www.linkedin.com/in/mo7amed-3bdelghany"> Mo7amed_3bdelghany </a> </h5>
 Last Edited on: 11/9/2024
 
 ![](https://visitor-badge-deno.deno.dev/Mo7amed3bdelghny.Mo7amed3bdelghany.svg)
+
+
+## 🐍  A Snake Eating My Contributions Graph!
+
+![snake gif](https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/output/github-contribution-grid-snake.svg)
 

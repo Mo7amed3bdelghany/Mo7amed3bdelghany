@@ -38,7 +38,7 @@
 
 -  Intro to Data Science from [**Cisco Network Academy**](https://www.linkedin.com/school/cisco-networking-academy1/). ([My Certificate](https://github.com/user-attachments/assets/95a18354-52ef-4cc7-b361-4ef8b2bbb2ed))
 -  Analyzing and Visualizing Data with Microsoft Power Bi from [**Qafza**](https://www.linkedin.com/company/qafzafortech/). ([My Certificate](https://github.com/user-attachments/assets/cb8cf66c-4db9-44b4-9977-b788a746475d))
--  Problem Solving (Basic) from [**HackerRank**](https://www.linkedin.com/company/hackerrank/). ([My Certificate](https://github.com/user-attachments/assets/d37cab5e-e42c-4455-9399-5cce764c7cec))
+-  [**HackerRank**](https://www.linkedin.com/company/hackerrank/): ( [Problem Solving (Basic)](https://www.hackerrank.com/certificates/68f4034cf559) ), ( [SQL (Basic)](https://www.hackerrank.com/certificates/732f5918266c) ), ( [SQL (intermediate)](https://www.hackerrank.com/certificates/50d27e334835) )
 - Volunteered in [**FA Model**](https://www.linkedin.com/company/fao-models/). ([My Certificate](https://github.com/user-attachments/assets/6257b25b-9353-446f-8048-0f9b117b431d))
 
 <br>
@@ -169,7 +169,7 @@ src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="50px"/></a
 
 <!-- ❤️🔥-->
 <h5> Made With ❤️ by <a href="https://www.linkedin.com/in/mo7amed-3bdelghany"> Mo7amed_3bdelghany </a> </h5>
-Last Edited on: 13/5/2025
+Last Edited on: 22/5/2025
 
 ![](https://visitor-badge-deno.deno.dev/Mo7amed3bdelghny.Mo7amed3bdelghany.svg)
 

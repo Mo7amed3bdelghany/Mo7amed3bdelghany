@@ -2,36 +2,36 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- It's me 😄-->
-<div id="User_content">
-  <ul align="center">
-      <h1 align="center"> <i> Hi ... I'm Mohamed Abdelghany </i> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
-  </ul>
-</div>
-
- 
 <div align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Github's%20Mohamed%20Abdelghany🤗&font=Pacifico&center=true&width=650&height=120&color=ff4500&vCenter=true&size=30%22"></a>
+  <a href="https://github.com/Mo7amed3bdelghany">
+    <img src="./assets/banner/header-banner.svg" alt="Mohamed Abdelghany Header" width="100%" />
+  </a>
 </div>
-
-<br><br><br><br>
-<!-- About Me -->
-## 🧑‍💼 Summary
-
-#### I'm a passionate Computer Science junior at Fayoum University with strong foundations in programming, data science, and AI/ML. With hands-on experience in real-world projects, open-source contributions, and competitive programming, I strive to build efficient, scalable solutions. Currently seeking internship opportunities where I can apply my knowledge and grow as a developer.
 
 <br>
 
-## <img src = "https://github.com/Mo7amed3bdelghany/Mo7amed3bdelghany/blob/main/Img/about%20me.gif?raw=true" width = 10%> About Me:
+<div align="center">
+  <a href="https://github.com/Mo7amed3bdelghany">
+    <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+Mohamed+Abdelghany's+GitHub!+🤗;AI+Engineer;Building+AI+Agents+%26+LLM+Applications;RAG+%7C+Generative+AI+%7C+AI+Automation;Open+Source+Contributor;AI+Content+Creator+on+YouTube+🎥&font=Pacifico&center=true&width=850&height=120&color=2563EB&vCenter=true&size=30">
+  </a>
+</div>
+ 
+
+<br><br><br><br>
+<!-- About Me -->
+## <img src = "https://github.com/user-attachments/assets/18f1ee3f-7f95-48c9-bbdd-20fe59cd2173" width = 10%> About Me:
+
+#### AI Engineer specializing in Machine Learning, Deep Learning, Computer Vision, and Generative AI. Experienced in designing and developing end-to-end AI solutions powered by LLMs, RAG pipelines, AI Agents, and intelligent automation. Passionate about transforming complex AI technologies into scalable, real-world applications while continuously exploring the latest advancements in artificial intelligence.
 
 <br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🏫 I'm a `Junior` at Faculty of *Computers & Artificial Intelligence* at *Fayoum University*.
-- 🤖 I’m currently learning **Artificial Intelligence & Machine Learning**.
-- 💻 I'm a competitive programmer on `LeetCode`,`Codeforces`
-- 🤓 Always learning new things.
-- ❤ Contributing to Open Source.
-- 🤔 I’m currently open for : `An Intern`.
+- 🤖 Building AI Agents and LLM-powered applications.
+- 🚀 Turning AI ideas into real-world solutions.
+- 🌱 Continuously exploring the latest advancements in AI.
+- 🎥 Sharing AI knowledge through YouTube.
+- ❤️ Contributing to open-source projects.
+- 🤝 Open to collaboration on impactful AI projects.
 <br><br>
 
 ## <img src="https://img.icons8.com/color/48/000000/prize.png" width="40"/> Certifications & Awards
@@ -157,8 +157,6 @@
 <!-- MY_Links -->
   <p align="center">
 	<a href="https://github.com/Mo7amed3bdelghany"><img src="https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/f1af1eed415b05863619f117fc08b0dc1510693b/Img/GitHub.png" width ="52px"/></a>
-	  <a href="https://www.kaggle.com/mo7amed3bdelghany"><img
-src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="50px"/></a>
 	<a href="https://www.linkedin.com/in/mo7amed-3bdelghany"><img src="https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/f1af1eed415b05863619f117fc08b0dc1510693b/Img/Linkedin.png"width ="50px"/></a>
 	<a href="mailto:mohamed.abdelghany726@gmail.com"><img img src="https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/f1af1eed415b05863619f117fc08b0dc1510693b/Img/Gmail.png" width ="50px"/></a>
        <a href="https://wa.me/201220186449"><img src="https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/f1af1eed415b05863619f117fc08b0dc1510693b/Img/Whatsapp.png"width ="50px"/></a>
@@ -169,7 +167,7 @@ src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="50px"/></a
 
 <!-- ❤️🔥-->
 <h5> Made With ❤️ by <a href="https://www.linkedin.com/in/mo7amed-3bdelghany"> Mo7amed_3bdelghany </a> </h5>
-Last Edited on: 22/5/2025
+Last Edited on: 06/8/2026
 
 ![](https://visitor-badge-deno.deno.dev/Mo7amed3bdelghny.Mo7amed3bdelghany.svg)
 

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="220">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#1E3A8A" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+
+    <!-- Accent Glow Gradient -->
+    <linearGradient id="glow-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#60A5FA" stop-opacity="1" />
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Card Border Gradient -->
+    <linearGradient id="border-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#1E3A8A" stop-opacity="0.2" />
+    </linearGradient>
+
+    <style>
+      .title {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        font-size: 38px;
+        fill: #FFFFFF;
+      }
+      .subtitle {
+        font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 600;
+        font-size: 20px;
+        fill: #60A5FA;
+      }
+      .tag {
+        font-family: 'Consolas', 'Fira Code', Monaco, monospace;
+        font-weight: 500;
+        font-size: 14px;
+        fill: #93C5FD;
+      }
+      
+      /* Typing Animation */
+      .typing-text {
+        letter-spacing: 2px;
+        overflow: hidden;
+        white-space: nowrap;
+        border-right: 3px solid #60A5FA;
+        animation: typing 3.5s steps(35, end) infinite alternate, blink 0.75s step-end infinite;
+      }
+
+      @keyframes typing {
+        from { width: 0; }
+        to { width: 100%; }
+      }
+      @keyframes blink {
+        from, to { border-color: transparent; }
+        50% { border-color: #60A5FA; }
+      }
+
+      /* Glowing background circle animation */
+      .pulse-circle {
+        animation: pulse 4s ease-in-out infinite alternate;
+      }
+      @keyframes pulse {
+        0% { transform: scale(1); opacity: 0.2; }
+        100% { transform: scale(1.15); opacity: 0.45; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background Box -->
+  <rect width="850" height="220" rx="16" fill="url(#bg-gradient)" stroke="url(#border-gradient)" stroke-width="2" />
+
+  <!-- Ambient Glow Circles -->
+  <circle cx="750" cy="40" r="140" fill="#2563EB" opacity="0.25" class="pulse-circle" />
+  <circle cx="100" cy="180" r="100" fill="#1E3A8A" opacity="0.3" class="pulse-circle" />
+
+  <!-- Content Container -->
+  <g transform="translate(45, 45)">
+    <!-- Status Tag -->
+    <rect x="0" y="0" width="165" height="28" rx="14" fill="#1E293B" stroke="#3B82F6" stroke-width="1" />
+    <circle cx="15" cy="14" r="5" fill="#22C55E" />
+    <text x="28" y="19" class="tag">AI / ML Engineer</text>
+
+    <!-- Main Title -->
+    <text x="0" y="75" class="title">Hi ... I'm Mohamed Abdelghany 👋</text>
+
+    <!-- Subtitle / Role -->
+    <text x="0" y="118" class="subtitle">Building AI. Sharing Knowledge. Creating Impact.</text>
+  </g>
+</svg>

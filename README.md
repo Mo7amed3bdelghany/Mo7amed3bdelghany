@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Mo7amed3bdelghany">
-    <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+Mohamed+Abdelghany's+GitHub!+🤗;AI+Engineer;Building+AI+Agents+%26+LLM+Applications;RAG+%7C+Generative+AI+%7C+AI+Automation;Open+Source+Contributor;AI+Content+Creator+on+YouTube+🎥&font=Pacifico&center=true&width=850&height=120&color=2563EB&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&height=120&lines=Welcome+to+Mohamed+Abdelghany's+GitHub!+🤗;AI+Engineer;Building+AI+Agents+%26+LLM+Applications;RAG+%7C+Generative+AI+%7C+AI+Automation;Open+Source+Contributor;AI+Content+Creator+on+YouTube+🎥" alt="Typing SVG" />
   </a>
 </div>
  
@@ -34,87 +34,87 @@
 - 🤝 Open to collaboration on impactful AI projects.
 <br><br>
 
-## <img src="https://img.icons8.com/color/48/000000/prize.png" width="40"/> Certifications & Awards
+<!-- ================= TECH STACK ================= -->
+## <img src="https://github.com/user-attachments/assets/238b6cb2-397c-4bd7-a8fa-8a070a274706" width ="3%"> Tech Stack
 
--  Intro to Data Science from [**Cisco Network Academy**](https://www.linkedin.com/school/cisco-networking-academy1/). ([My Certificate](https://github.com/user-attachments/assets/95a18354-52ef-4cc7-b361-4ef8b2bbb2ed))
--  Analyzing and Visualizing Data with Microsoft Power Bi from [**Qafza**](https://www.linkedin.com/company/qafzafortech/). ([My Certificate](https://github.com/user-attachments/assets/cb8cf66c-4db9-44b4-9977-b788a746475d))
--  [**HackerRank**](https://www.linkedin.com/company/hackerrank/): ( [Problem Solving (Basic)](https://www.hackerrank.com/certificates/68f4034cf559) ), ( [SQL (Basic)](https://www.hackerrank.com/certificates/732f5918266c) ), ( [SQL (intermediate)](https://www.hackerrank.com/certificates/50d27e334835) )
-- Volunteered in [**FA Model**](https://www.linkedin.com/company/fao-models/). ([My Certificate](https://github.com/user-attachments/assets/6257b25b-9353-446f-8048-0f9b117b431d))
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
-
-###   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> Programming languages
-
-<p align="center"> 
-<!-- Programming Languages -->
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  </a> 
-  &emsp;
-  <a href="#" target="_blank"> 
-    <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  </a> 
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
-### <img src = "https://github.com/user-attachments/assets/b8c82700-06f4-4bb8-afeb-49eff94a56e4" width="40">  Tech Stack
- 
+### 💻 Programming Languages
 <p align="center">
- <!-- Python Libraries -->
-  &emsp;
-    <a href="#"><img alt="Numpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/></a>
-&emsp;
-    <a href="#"><img alt="TensorFlow" src="https://img.icons8.com/color/48/tensorflow.png" width="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.icons8.com/color/48/000000/google-sheets.png" width="40" height="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Power BI" src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40"/></a>
-  &emsp;
-    <a href="#"><img alt="SQL Server" src="https://img.icons8.com/ios-filled/50/sql.png" width="40" height="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Markdown" src="https://img.icons8.com/color/48/000000/markdown.png" width="40" height="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+  <img src="https://github.com/user-attachments/assets/d18c91e7-633b-4d59-90ae-d32dca8938b9" width="45" title="Python"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/03fa3428-29f7-4214-92b0-e4874c515b4c" width="45" title="C++"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/2cf7a428-ef42-4273-a46f-dc37220156e3" width="45" title="C"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/4457a004-4627-4237-b311-b0b3d8402db3" width="45" title="SQL"/>&emsp;
 </p>
 
+### 🤖 Machine Learning & Deep Learning
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd54e0bc-d107-41ea-8730-85888cbf6e3f" width="45" title="TensorFlow"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/86933a8e-9482-45e7-872d-ada8eac1309f" width="45" title="PyTorch"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/01e42cf6-e668-4d0d-8b5b-9c79e3ab2910" width="45" title="Scikit-learn"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/7d890161-918d-4a16-874a-bd1caad5605e" width="45" title="Keras"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/a304bd8e-6a89-449e-a840-218fffe9c0a9" width="45" title="OpenCV"/>
+</p>
+
+### 🧬 Generative AI, NLP & LLMs
+<p align="center">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/>&emsp;
+  <img src="https://python.langchain.com/img/brand/wordmark.png" height="30" title="LangChain"/>&emsp;
+  <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/original/openai-chatgpt-logo-icon-free-png.png" width="45" title="OpenAI"/>&emsp;
+  <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" width="45" title="spaCy"/>&emsp;
+  <img src="https://www.nltk.org/_static/nltk.jpg" width="45" title="NLTK"/>
+</p>
+
+### 📊 Data Science & Analysis
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib"/>&emsp;
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" title="Seaborn"/>&emsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" title="Power BI"/>
+</p>
+
+### 🚀 MLOps & Deployment
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask"/>&emsp;
+  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="40" title="MLflow"/>&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" title="GitHub Actions"/>
+</p>
+
+### 🗄️ Databases & Vector Stores
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>&emsp;
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/logo.png" width="45" title="FAISS"/>&emsp;
+  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="45" title="Pinecone"/>
+</p>
+
+### ☁️ Cloud Platforms
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" title="AWS"/>&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" title="Azure"/>&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" title="Google Cloud"/>
+</p>
 
  ### <img src = "https://github.com/user-attachments/assets/d8e01f4f-6034-4697-9f5f-3518dfbe9e6a" width="40"> IDEs & Editors
- 
 <p align="center">
-  &emsp;
-    <a href="#"> <img alt="VsCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Spyder" src="https://img.icons8.com/fluency/48/spyder-ide.png" width="40" height="40"/></a>
+  <img src="https://github.com/user-attachments/assets/eeff987a-beb9-43d8-b2d8-3f95e6adf389" width="45" title="VS Code"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/1470910e-c5ec-47ed-8edf-d87a6742422a" width="45" title="Jupyter"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/74d07f1d-8870-4e80-b956-499954a620f5" width="45" title="PyCharm"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/0be07ec4-98b7-4e68-a90d-3a13936c92a8" width="45" title="Google Colab"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/a4113225-f6e5-463c-b413-3dcde87e546b" width="45" title="Git"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/025bcf99-991e-4497-b835-16e304f582a9" width="45" title="GitHub"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/29f1eb9a-8171-42a0-ae6e-14a46ad95a95" width="45" title="Postman"/>
 </p>
 
 ### <img src = "https://github.com/user-attachments/assets/94783b82-7435-4ce2-9b7d-b7c609f63802" width="40">  Operating Systems
- 
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Windows" src="https://img.icons8.com/color/48/000000/windows-10.png" width="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/></a>
-  &emsp;
-    <a href="#"><img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/></a>
+  <img src="https://github.com/user-attachments/assets/4f0e23ae-2463-401b-b03a-53315912fe9a" width="45" title="Windows"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/5e7a84c8-c24f-4111-b593-8efedf4b5f77" width="45" title="Linux"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/71c7d0b6-425c-48ba-b4cf-c498c7dd0dd8" width="45" title="Ubuntu"/>
 </p>
 
-<br> 
 
 ---       
 
@@ -152,7 +152,7 @@
 
 <br><br><br>
 <!-- Connect Us -->
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect With Me 🤝 </h3>
+<h3 align="center" > <img src="https://github.com/user-attachments/assets/9adbf16b-b8e5-4f6f-965a-d4c95d955de7" width="30" height="30" style="margin-right: 10px;"> Connect With Me 🤝 </h3>
 
 <!-- MY_Links -->
   <p align="center">
@@ -171,4 +171,11 @@ Last Edited on: 06/8/2026
 
 ![](https://visitor-badge-deno.deno.dev/Mo7amed3bdelghny.Mo7amed3bdelghany.svg)
 
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/916aad76-a56d-4e72-a2de-5f70d5ecde93#gh-dark-mode-only"
+    alt="Ayat Dark Mode"
+    width="600"
+  />
+</div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

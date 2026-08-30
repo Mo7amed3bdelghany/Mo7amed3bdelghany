@@ -26,7 +26,8 @@
 #### AI Engineer specializing in Machine Learning, Deep Learning, Computer Vision, and Generative AI. Experienced in designing and developing end-to-end AI solutions powered by LLMs, RAG pipelines, AI Agents, and intelligent automation. Passionate about transforming complex AI technologies into scalable, real-world applications while continuously exploring the latest advancements in artificial intelligence.
 
 <br>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="340" src="https://github.com/user-attachments/assets/09655cba-feaf-4384-83f2-077553891c88">
+<!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
 
 - 🤖 Building AI Agents and LLM-powered applications.
 - 🚀 Turning AI ideas into real-world solutions.
@@ -34,7 +35,8 @@
 - 🎥 Sharing AI knowledge through YouTube.
 - ❤️ Contributing to open-source projects.
 - 🤝 Open to collaboration on impactful AI projects.
-<br><br>
+<br><br><br>
+
 
 <!-- ================= TECH STACK ================= -->
 ## <img src="https://github.com/user-attachments/assets/4e0aaed3-7764-4348-b720-cd2cc0f77f02" width ="10%"> Tech Stack:

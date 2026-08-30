@@ -141,6 +141,71 @@
   <img src="https://github.com/user-attachments/assets/71c7d0b6-425c-48ba-b4cf-c498c7dd0dd8" width="45" title="Ubuntu"/>
 </p>
 
+<br>
+
+<!--
+<!-- ================= CERTIFICATIONS ================= --
+
+## 📜 Certifications & Achievements
+
+<p align="center">
+
+  <a href="https://coursera.org/share/0d95ac2658cb012eb8a47d5c0c09c004">
+    <img src="https://github.com/user-attachments/assets/9dab6b33-6ccc-474f-8fb5-af0f9f0acecf" width="400" alt="Supervised Machine Learning: Regression and Classification"/>
+  </a> &emsp;&emsp;
+
+  <a href="https://www.udemy.com/certificate/UC-feebaa83-9f9e-4f73-bf74-2293dd8b80b4/">
+    <img src="https://github.com/user-attachments/assets/81b96d34-2dea-4625-86f2-f8da3f260dcd"
+         width="400"
+         alt="Deep Learning for NLP"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://coursera.org/share/0d95ac2658cb012eb8a47d5c0c09c004">
+    🏆 <b>Supervised Machine Learning with Andrew NG</b>
+  </a>
+
+  &emsp;&emsp;
+
+  <a href="https://www.udemy.com/certificate/UC-feebaa83-9f9e-4f73-bf74-2293dd8b80b4/">
+    🏆 <b>Deep Learning for NLP</b>
+  </a>
+  &emsp;&emsp;
+
+</p>
+-->
+---
+
+<br>
+
+<!-- ================= YOUTUBE ================= -->
+
+## <img src="https://github.com/user-attachments/assets/277ef967-3fda-4ba5-be1b-f8bcb0dfbc0d" width ="3%"> Learn AI With Me
+<p align="center">
+
+<a href="https://www.youtube.com/@Mo7amed3bdelghany">
+<img src="https://github.com/user-attachments/assets/0d41bdc2-c979-42e2-9c90-2006c1c61b8a"
+     width="900"
+     alt="Mohamed Abdelghany YouTube Channel"/>
+</a>
+
+🎥 I share practical content about
+<b>Artificial Intelligence, Machine Learning, Data Science, and Generative AI.</b>
+
+<br/>
+
+<p align="center"> 
+<a href="https://www.youtube.com/@Mo7amed3bdelghany">
+  🔴 <b>Subscribe and Join the Learning Journey!</b>
+</a>
+</p>
+
+---
+
+
 <!-- 
 ---       
 
@@ -185,7 +250,8 @@
 	<a href="https://github.com/Mo7amed3bdelghany"><img src="https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/f1af1eed415b05863619f117fc08b0dc1510693b/Img/GitHub.png" width ="52px"/></a>
 	<a href="https://www.linkedin.com/in/mo7amed-3bdelghany"><img src="https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/f1af1eed415b05863619f117fc08b0dc1510693b/Img/Linkedin.png"width ="50px"/></a>
 	<a href="mailto:mohamed.abdelghany726@gmail.com"><img img src="https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/f1af1eed415b05863619f117fc08b0dc1510693b/Img/Gmail.png" width ="50px"/></a>
-       <a href="https://wa.me/201220186449"><img src="https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/f1af1eed415b05863619f117fc08b0dc1510693b/Img/Whatsapp.png"width ="50px"/></a>
+    <a href="https://wa.me/201220186449"><img src="https://raw.githubusercontent.com/Mo7amed3bdelghany/Mo7amed3bdelghany/f1af1eed415b05863619f117fc08b0dc1510693b/Img/Whatsapp.png"width ="50px"/></a>
+	<a href="https://www.youtube.com/@Mo7amed3bdelghany"><img src="https://github.com/user-attachments/assets/277ef967-3fda-4ba5-be1b-f8bcb0dfbc0d"width ="50px"/></a>
 </p>
 
 <!--horizontal Color-->

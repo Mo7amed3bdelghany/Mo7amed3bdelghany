@@ -10,9 +10,12 @@
 
 <br>
 
+
+
 <div align="center">
   <a href="https://github.com/Mo7amed3bdelghany">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&height=120&lines=Welcome+to+Mohamed+Abdelghany's+GitHub!+🤗;AI+Engineer;Building+AI+Agents+%26+LLM+Applications;RAG+%7C+Generative+AI+%7C+AI+Automation;Open+Source+Contributor;AI+Content+Creator+on+YouTube+🎥" alt="Typing SVG" />
+	  <img width="1000" height="85" alt="Type SVG" src="https://github.com/user-attachments/assets/62c9927d-8814-4216-8b56-5ef85ae28719" />
+    <!-- <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=850&height=120&lines=Welcome+to+Mohamed+Abdelghany's+GitHub!+🤗;AI+Engineer;Building+AI+Agents+%26+LLM+Applications;RAG+%7C+Generative+AI+%7C+AI+Automation;Open+Source+Contributor;AI+Content+Creator+on+YouTube+🎥" alt="Typing SVG" /> -->
   </a>
 </div>
  
@@ -73,7 +76,7 @@
 	<img src="https://github.com/user-attachments/assets/84d9c8f3-dafd-4545-9aeb-fd162341cfca" width="45" title="CrewAI"/>&emsp; 
 </p>
 
-### 🔍 RAG & Vector Databases
+### <img src="https://github.com/user-attachments/assets/b1130229-bce8-47ed-91fe-20a33bad8098" width ="3%"> RAG & Vector Databases
 <p align="center"> 
 	<img src="https://github.com/user-attachments/assets/86504ee8-74ad-4272-b3f0-69f8785d3e4d" height="45" title="FAISS"/>&emsp; 
 	<img src="https://github.com/user-attachments/assets/0f858e72-5521-42bb-80d9-9f3f2f567d0a" width="45" title="Pinecone"/>&emsp; 

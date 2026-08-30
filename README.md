@@ -11,7 +11,6 @@
 <br>
 
 
-
 <div align="center">
   <a href="https://github.com/Mo7amed3bdelghany">
 	  <img width="1000" height="85" alt="Type SVG" src="https://github.com/user-attachments/assets/62c9927d-8814-4216-8b56-5ef85ae28719" />
@@ -140,7 +139,7 @@
   <img src="https://github.com/user-attachments/assets/71c7d0b6-425c-48ba-b4cf-c498c7dd0dd8" width="45" title="Ubuntu"/>
 </p>
 
-
+<!-- 
 ---       
 
 ## 📈 GitHub Stats
@@ -155,21 +154,21 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+ <p align="center">
 	&emsp;
     <a href="#"><img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Mo7amed3bdelghany&theme=onedark&no-bg=true&no-frame=true"/></a>
-</p>
+</p> 
 
 
 ## 📊 Activity Graph
 
-<p align="center">
+ <p align="center">
 	&emsp;
     <a href="#"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mo7amed3bdelghany&theme=github-compact"/></a>
-</p>
+</p> 
 
 
-<br><br>
+<br><br> -->
 
 ## 🐍  A Snake Eating My Contributions Graph!
 
@@ -192,13 +191,13 @@
 
 <!-- ❤️🔥-->
 <h5> Made With ❤️ by <a href="https://www.linkedin.com/in/mo7amed-3bdelghany"> Mo7amed_3bdelghany </a> </h5>
-Last Edited on: 06/8/2026
+Last Edited on: 30/8/2026
 
-![](https://visitor-badge-deno.deno.dev/Mo7amed3bdelghny.Mo7amed3bdelghany.svg)
+<!-- ![](https://visitor-badge-deno.deno.dev/Mo7amed3bdelghny.Mo7amed3bdelghany.svg) -->
 
 <div align="center">
   <img 
-    src="https://github.com/user-attachments/assets/916aad76-a56d-4e72-a2de-5f70d5ecde93#gh-dark-mode-only"
+    src="https://github.com/user-attachments/assets/a6754884-0ef5-4447-8370-8e1da4ca30c3"
     alt="Ayat Dark Mode"
     width="600"
   />

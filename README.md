@@ -35,14 +35,14 @@
 <br><br>
 
 <!-- ================= TECH STACK ================= -->
-## <img src="https://github.com/user-attachments/assets/238b6cb2-397c-4bd7-a8fa-8a070a274706" width ="3%"> Tech Stack
+## <img src="https://github.com/user-attachments/assets/4e0aaed3-7764-4348-b720-cd2cc0f77f02" width ="10%"> Tech Stack:
 
-### 💻 Programming Languages
+### <img src="https://github.com/user-attachments/assets/238b6cb2-397c-4bd7-a8fa-8a070a274706" width ="3%"> Programming Languages
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d18c91e7-633b-4d59-90ae-d32dca8938b9" width="45" title="Python"/>&emsp;
   <img src="https://github.com/user-attachments/assets/03fa3428-29f7-4214-92b0-e4874c515b4c" width="45" title="C++"/>&emsp;
   <img src="https://github.com/user-attachments/assets/2cf7a428-ef42-4273-a46f-dc37220156e3" width="45" title="C"/>&emsp;
-  <img src="https://github.com/user-attachments/assets/4457a004-4627-4237-b311-b0b3d8402db3" width="45" title="SQL"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/7cf8d8d2-5362-41e2-a505-52dbf098819f" width="45" title="SQL"/>&emsp;
 </p>
 
 ### 🤖 Machine Learning & Deep Learning
@@ -56,53 +56,75 @@
 
 ### 🧬 Generative AI, NLP & LLMs
 <p align="center">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/>&emsp;
-  <img src="https://python.langchain.com/img/brand/wordmark.png" height="30" title="LangChain"/>&emsp;
-  <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/original/openai-chatgpt-logo-icon-free-png.png" width="45" title="OpenAI"/>&emsp;
-  <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" width="45" title="spaCy"/>&emsp;
-  <img src="https://www.nltk.org/_static/nltk.jpg" width="45" title="NLTK"/>
+  <img src="https://github.com/user-attachments/assets/c2738f7a-99fa-49ac-bd17-777a290f1f57" width="45" title="OpenAI"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/86a63f44-864c-4a31-9d12-9155a5ea982f" width="45" title="Hugging Face"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/f8efd833-77f0-46f0-9bac-713eb77a1821" height="45" title="Ollama"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/7f298f25-e898-4d36-a17e-da234026e457" height="45" title="Claude"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/a5475371-1632-4a31-9fab-d525e78c2499" height="45" title="LangChain"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/4dea1369-79c0-4f02-9882-e49164025664" height="45" title="LangSmith"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/1437cea8-1cf0-4439-9fe9-b143129fad08" width="65" title="spaCy"/>&emsp;
 </p>
 
-### 📊 Data Science & Analysis
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" title="Matplotlib"/>&emsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" title="Seaborn"/>&emsp;
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="45" title="Power BI"/>
+### 🤖 AI Agents & Automation
+<p align="center"> 
+	<img src="https://github.com/user-attachments/assets/3a904c98-97b2-4060-b3af-773041aeb3ec" height="45" title="LangGraph"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/76a1657b-9c20-43a2-9b90-8914d3590c22" width="45" title="n8n"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/2a15cd93-d279-45e0-803e-69cf8ed3a49a" width="45" title="MCP"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/84d9c8f3-dafd-4545-9aeb-fd162341cfca" width="45" title="CrewAI"/>&emsp; 
+</p>
+
+### 🔍 RAG & Vector Databases
+<p align="center"> 
+	<img src="https://github.com/user-attachments/assets/86504ee8-74ad-4272-b3f0-69f8785d3e4d" height="45" title="FAISS"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/0f858e72-5521-42bb-80d9-9f3f2f567d0a" width="45" title="Pinecone"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/32a51f38-6057-47e1-b755-539dc1ea25d1" width="45" title="Chroma"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/80169ce7-ed60-4f49-943b-b5bcc5469dee" width="45" title="LlamaIndex"/>&emsp; 
+</p>
+
+
+### 📊 Data Science & Analysis 
+<p align="center"> 
+	<img src="https://github.com/user-attachments/assets/d1a3470b-a586-43fd-9c6a-ba88f68c5611" width="45" title="NumPy"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/7a81e70c-b280-4982-a1e2-2bd9fef01dd5" width="45" title="Pandas"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/57218b9c-a12c-4278-84a6-1318508954ae" width="45" title="Matplotlib"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/dac20c8e-45b1-40c2-b2fd-9abfd022e16f" width="45" title="Seaborn"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/74d717da-df2b-4136-83de-2caee40f0950" width="45" title="Power BI"/> 
 </p>
 
 ### 🚀 MLOps & Deployment
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask"/>&emsp;
-  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="40" title="MLflow"/>&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" title="GitHub Actions"/>
+<p align="center"> 
+	<img src="https://github.com/user-attachments/assets/a78381ae-c009-41f6-aa16-4c1a46388f3d" width="45" title="Docker"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/e059837b-5688-4750-8025-50a8e7227492" width="45" title="FastAPI"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/d91f9bad-156a-48de-88d3-810d4ad6a91b" width="45" title="Flask"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/1f74617b-a5f4-40ba-86cb-5533165a8d03" height="40" title="MLflow"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/d80d1d29-d18a-4129-9ec4-6dd1e725c2da" height="40" title="Streamlit"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/bcae535f-dad6-40a8-bb52-f38515a330c0" height="40" title="Gradio"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/c9d2d675-13ab-4769-8b85-a2b1896515b0" width="45" title="GitHub Actions"/> </p>
+
+
+### 🗄️ Databases
+<p align="center"> 
+	<img src="https://github.com/user-attachments/assets/901859ae-c370-44ea-a7a1-524d72c8f225" width="45" title="MySQL"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/09d3bbd5-d71a-405e-b1b5-e74b23fe23cf" width="45" title="PostgreSQL"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/981245f6-742b-4cf9-a0ca-63c5e7e64e82" width="45" title="MongoDB"/>&emsp; 
 </p>
 
-### 🗄️ Databases & Vector Stores
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>&emsp;
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/logo.png" width="45" title="FAISS"/>&emsp;
-  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="45" title="Pinecone"/>
+### ☁️ Cloud Platforms 
+<p align="center"> 
+	<img src="https://github.com/user-attachments/assets/5d61485f-3db3-43f3-91c2-26e2abdf0362" width="45" title="AWS"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/0eb92998-d37e-470b-a3d1-b6c9ff5eb057" width="45" title="Azure"/>&emsp; 
+	<img src="https://github.com/user-attachments/assets/546a3385-88a2-4d4c-8082-1f048c4d437e" width="45" title="Google Cloud"/>
 </p>
 
-### ☁️ Cloud Platforms
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" title="AWS"/>&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" title="Azure"/>&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" title="Google Cloud"/>
-</p>
-
- ### <img src = "https://github.com/user-attachments/assets/d8e01f4f-6034-4697-9f5f-3518dfbe9e6a" width="40"> IDEs & Editors
+ ### <img src = "https://github.com/user-attachments/assets/d8e01f4f-6034-4697-9f5f-3518dfbe9e6a" width="40"> Developer Tools & AI Coding
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eeff987a-beb9-43d8-b2d8-3f95e6adf389" width="45" title="VS Code"/>&emsp;
   <img src="https://github.com/user-attachments/assets/1470910e-c5ec-47ed-8edf-d87a6742422a" width="45" title="Jupyter"/>&emsp;
   <img src="https://github.com/user-attachments/assets/74d07f1d-8870-4e80-b956-499954a620f5" width="45" title="PyCharm"/>&emsp;
   <img src="https://github.com/user-attachments/assets/0be07ec4-98b7-4e68-a90d-3a13936c92a8" width="45" title="Google Colab"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/6fd95308-6287-4b36-ad82-d76dc3708ec3" width="45" title="Cursor"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/7aa783e4-321e-4e2a-9689-68da9856113c" width="45" title="Claude Code"/>&emsp;
+  <img src="https://github.com/user-attachments/assets/62fce5dd-cd0d-4922-9130-285e4efecc52" width="45" title="GitHub Copilot"/>&emsp;
   <img src="https://github.com/user-attachments/assets/a4113225-f6e5-463c-b413-3dcde87e546b" width="45" title="Git"/>&emsp;
   <img src="https://github.com/user-attachments/assets/025bcf99-991e-4497-b835-16e304f582a9" width="45" title="GitHub"/>&emsp;
   <img src="https://github.com/user-attachments/assets/29f1eb9a-8171-42a0-ae6e-14a46ad95a95" width="45" title="Postman"/>

@@ -184,6 +184,9 @@
 <!-- ================= YOUTUBE ================= -->
 
 ## <img src="https://github.com/user-attachments/assets/277ef967-3fda-4ba5-be1b-f8bcb0dfbc0d" width ="3%"> Learn AI With Me
+
+🎥 I share practical content about
+<b>Artificial Intelligence, Machine Learning, Data Science, and Generative AI.</b>
 <p align="center">
 
 <a href="https://www.youtube.com/@Mo7amed3bdelghany">
@@ -192,10 +195,10 @@
      alt="Mohamed Abdelghany YouTube Channel"/>
 </a>
 
-🎥 I share practical content about
-<b>Artificial Intelligence, Machine Learning, Data Science, and Generative AI.</b>
+
 
 <br/>
+
 
 <p align="center"> 
 <a href="https://www.youtube.com/@Mo7amed3bdelghany">

@@ -19,7 +19,7 @@
 </div>
  
 
-<br><br><br><br>
+<br><br><br>
 <!-- About Me -->
 ## <img src = "https://github.com/user-attachments/assets/18f1ee3f-7f95-48c9-bbdd-20fe59cd2173" width = 10%> About Me:
 
